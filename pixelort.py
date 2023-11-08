@@ -448,6 +448,7 @@ class App(CTk):
         if self.interval_mode=="file":
             if not self.img_r:
                 CTkMessagebox(self, title="No Reference", message="Please import a reference file", icon="warning")
+                self.running = False
                 return
             if self.file_check.get():
                 self.interval_mode = "file-edges"
