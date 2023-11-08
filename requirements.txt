@@ -1,0 +1,9 @@
+customtkinter
+pixelsort
+tkdial
+pillow
+CTkToolTip
+CTkMessagebox
+CTkMenuBar
+tkinterdnd2
+requests
