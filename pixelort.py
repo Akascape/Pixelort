@@ -50,7 +50,7 @@ class App(CTk):
         self.iconphoto(False, self.icopath)
         self.protocol("WM_DELETE_WINDOW", self.on_closing)
         self.bind("<space>", lambda e: self.start())
-        
+        self.bind("<Escape>", lambda e: self.turn_of())
         # MENUBAR
         self.button_file = self.menubar.add_cascade("File")
         self.dropdown1 = CustomDropdownMenu(widget=self.button_file, width=100, corner_radius=5)
@@ -186,7 +186,11 @@ class App(CTk):
         
         self.mode.set("Random")
         self.update_settings("Random")
-
+        
+    def turn_of(self):
+        self.destroy()
+        self.running = False
+        
     def resource(self, relative_path):
         base_path = getattr(
             sys,
@@ -459,6 +463,7 @@ class App(CTk):
         if self.chlength.get()<=5:
             self.chlength.set(5)
         try:
+            self.update()
             self.sorted_image = pixelsort(self.img,
                                           randomness=100-self.random.get(),
                                           clength=self.chlength.get(),
@@ -479,6 +484,8 @@ class App(CTk):
             CTkMessagebox(self, title="Size Issue", message="Reference image/mask size is not matching!", icon="cancel")
             
         except:
+            if not self.running:
+                return
             CTkMessagebox(self, title="Error", message="Something went wrong!", icon="cancel")
             
         self.render.configure(state="Normal", text="Render")
