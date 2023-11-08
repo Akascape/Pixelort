@@ -63,7 +63,7 @@ Sorting function  | Description
 `Minimum`         | Sort on the minimum RGB value of a pixel (either the R, G or B).
 
 ### Conclusion
-**This project can be helpful for customtkinter developers making similar type of applications, it will also help people who want to experiment pixel sorting properly.**
+**This project can be helpful for customtkinter developers making similar type of applications, it will also help those who want to experiment pixel sorting and glitch art.**
 **Author: Akash Bora (Akascape)**
 
 [<img src="https://user-images.githubusercontent.com/89206401/168461242-884f25ce-eb67-406a-9d98-cf8d0f28cb43.png" width=100>](https://github.com/Akascape/Pixelort/blob/main/LICENSE)
