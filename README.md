@@ -26,7 +26,7 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 - Angle and threshold parameters
 - Sorting functions
 - Image reference mode
-- Update checking
+- Check version updates
 - Export to png/jpg
 - One click live render
 - Dark/Light themes
