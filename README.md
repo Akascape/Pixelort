@@ -37,7 +37,7 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 
 You can mask the area where you want the pixel sorting effect
 
-### Usage
+### Modes
 
 Modes             | Description
 ------------------|------------
