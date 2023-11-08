@@ -42,7 +42,7 @@ You can mask the area where you want the pixel sorting effect
 Modes             | Description
 ------------------|------------
 `Random`			    | Randomly generate intervals. Distribution of widths is linear by default. Interval widths can be scaled using `character length`.
-`Edges`				    | Performs an edge detection, which is used to define intervals. Tweak threshold with `threshold`.
+`Edges`				    | Performs an edge detection, which is used to define intervals. 
 `Threshold`		  	| Intervals defined by lightness thresholds; only pixels with a lightness between the upper and lower thresholds are sorted.
 `Waves`			    	| Intervals are waves of nearly uniform widths. Control width of waves with `character length`.
 `Reference`       | Intervals taken from another specified input image. Should be black and white, and the same size as the input image.
