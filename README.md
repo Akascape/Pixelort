@@ -21,7 +21,7 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 
 - Drag and Drop file support
 - Masking feature
-- Save Import Mask
+- Save/Import Mask
 - 6 Pixel Sorting Modes
 - Angle and threshold parameters
 - Sorting functions
