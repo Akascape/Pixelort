@@ -7,7 +7,7 @@
 ![Screenshot](https://github.com/Akascape/CTkMenuBar/assets/89206401/f71167c0-6434-4d41-912a-fa67d214d66d)
 
 ## What is Pixel Sorting?
-Pixel sorting is a digital image processing technique that involves isolating a horizontal or vertical line of pixels in an image and sorting their positions based on any number of criteria, such as luminosity, hue, or saturation 1. The result is a glitchy, abstracted image that can be used for artistic purposes. This tool is based on https://github.com/satyarth/pixelsort
+Pixel sorting is a digital image processing technique that involves isolating a horizontal or vertical line of pixels in an image and sorting their positions based on any number of criteria, such as luminosity, hue, or saturation. The result is a glitchy, abstracted image that can be used for artistic purposes. Pixelort is also a software that can do pixel sorting with various options and tweaks. This tool is based on https://github.com/satyarth/pixelsort
 
 ## INSTALLATION
 - Download the python version:
