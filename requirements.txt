@@ -7,3 +7,4 @@ CTkMessagebox
 CTkMenuBar
 tkinterdnd2
 requests
+packaging
