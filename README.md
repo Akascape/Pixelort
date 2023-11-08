@@ -35,7 +35,7 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 ## Immediate Masking Tool
 ![Screenshot](https://github.com/Akascape/CTkMenuBar/assets/89206401/d188f772-df60-4fc8-8507-9a6b3d22f571)
 
-You can mask the area where you want the pixel sorting effect
+You can draw the mask of the area where you want the pixel sorting effect
 
 ### Modes
 
