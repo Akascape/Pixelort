@@ -7,7 +7,7 @@
 ![Screenshot](https://github.com/Akascape/CTkMenuBar/assets/89206401/f71167c0-6434-4d41-912a-fa67d214d66d)
 
 ## What is Pixel Sorting?
-Pixel sorting is a digital image processing technique that involves isolating a horizontal or vertical line of pixels in an image and sorting their positions based on any number of criteria, such as luminosity, hue, or saturation. The result is a glitchy, abstracted image that can be used for artistic purposes. Pixelort is also a software that can do pixel sorting with various options and tweaks. This tool is based on https://github.com/satyarth/pixelsort
+Pixel sorting is a digital image processing technique that involves isolating a horizontal or vertical line of pixels in an image and sorting their positions based on any number of criteria, such as luminosity, hue, or saturation. The result is a glitchy, abstracted image that can be used for artistic purposes. Pixelort is also a software that can do pixel sorting with various options and tweaks. This tool is based on this library: https://github.com/satyarth/pixelsort
 
 ## DOWNLOAD
 ### <p align='center'> Windows Version <br> <p align='center'> [<img src="https://img.shields.io/badge/FREE-PIXELORT-informational?&logo=Microsoft&logoColor=blue&color=007ec6" width="300">](https://github.com/Akascape/Pixelort/releases/download/v0.1/Pixelort-v0.1_win64.zip)  <p align='center'>
@@ -38,7 +38,7 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 ## Quick Masking Tool
 ![Screenshot](https://github.com/Akascape/CTkMenuBar/assets/89206401/d188f772-df60-4fc8-8507-9a6b3d22f571)
 
-You can draw the mask of the area where you want the pixel sorting effect
+**You can draw the mask of the area where you want the pixel sorting effect.**
 
 ### Modes
 
@@ -63,8 +63,9 @@ Sorting function  | Description
 `Minimum`         | Sort on the minimum RGB value of a pixel (either the R, G or B).
 
 ### Conclusion
-**This project can be helpful for customtkinter developers making similar type of applications, it will also help those who want to experiment pixel sorting and glitch art.**
-**Author: Akash Bora (Akascape)**
+**This project can be helpful for customtkinter developers making similar type of applications, it will also help those who want to experiment pixel sorting and glitch art. Support for more projects!**
+
+**Author: Akascape**
 
 [<img src="https://user-images.githubusercontent.com/89206401/168461242-884f25ce-eb67-406a-9d98-cf8d0f28cb43.png" width=100>](https://github.com/Akascape/Pixelort/blob/main/LICENSE)
 
