@@ -456,6 +456,8 @@ class App(CTk):
                 self.interval_mode = "file"
 
         self.render.configure(state="Disabled", text="...")
+        if self.chlength.get()<=5:
+            self.chlength.set(5)
         try:
             self.sorted_image = pixelsort(self.img,
                                           randomness=100-self.random.get(),
