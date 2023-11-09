@@ -58,4 +58,19 @@ Masking helps you to achieve the pixel sorting effect in a specific region of im
 **You can also import a saved mask, and remove the mask:**
 ![Screenshot](https://github.com/Akascape/Pixelort/assets/89206401/b8cd6c7a-1072-48e6-8bdf-f90d818da65f)
 
+### Other Options
+You can reset all settings and toggle themes, in the help section you can **check for updates** and documentation.
 
+## Export
+![Screenshot](https://github.com/Akascape/Pixelort/assets/89206401/0ce3d1ba-7e34-4a38-a26f-e3ed20572408)
+
+- `PNG`: Save the output image with RGBA configurarion (transparency included)
+- `JPG`: Save the output image with RGB configuration (no transparency)
+
+
+## Other Features
+- You can double click on the image for live rendering
+- You can also press <SpaceBar> to render the image
+- You can press <Esc> key to force quit the application
+
+### That's all, enjoy experimenting...
