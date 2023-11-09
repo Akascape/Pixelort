@@ -72,5 +72,6 @@ You can reset all settings and toggle themes, in the help section you can **chec
 - You can double click on the image for live rendering
 - You can also press <SpaceBar> to render the image
 - You can press <Esc> key to force quit the application
+- You can scroll up/down in the image to zoom
 
 ### That's all, enjoy experimenting...
