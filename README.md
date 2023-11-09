@@ -35,6 +35,8 @@ Pixel sorting is a digital image processing technique that involves isolating a 
 - Dark/Light themes
 - More...
 
+[📖READ DOCUMENTATION](https://github.com/Akascape/Pixelort/blob/main/Documentation.md)
+
 ## Quick Masking Tool
 ![Screenshot](https://github.com/Akascape/CTkMenuBar/assets/89206401/d188f772-df60-4fc8-8507-9a6b3d22f571)
 
