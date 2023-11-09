@@ -59,7 +59,7 @@ Masking helps you to achieve the pixel sorting effect in a specific region of im
 ![Screenshot](https://github.com/Akascape/Pixelort/assets/89206401/b8cd6c7a-1072-48e6-8bdf-f90d818da65f)
 
 ### Other Options
-You can reset all settings and toggle themes, in the help section you can **check for updates** and documentation.
+You can reset all settings and toggle themes, in the help section you can **check for updates** and open documentation.
 
 ## Export
 ![Screenshot](https://github.com/Akascape/Pixelort/assets/89206401/0ce3d1ba-7e34-4a38-a26f-e3ed20572408)
