@@ -206,7 +206,7 @@ class App(CTk):
                       icon=self.resource(os.path.join("assets","logo.png")))
       
     def check_for_update(self):
-        URL = "https://raw.githubusercontent.com/Akascape/Pixelort/VERSION.txt"
+        URL = "https://raw.githubusercontent.com/Akascape/Pixelort/main/VERSION.txt"
         
         try:
             response = requests.get(URL)
